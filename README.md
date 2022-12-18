@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Canada</h3>
 
 - 👩‍💻 I’m a CICCC student
-- 🇯🇵 I'm from Japan and i'm living vancouver 🇨🇦.
+- 🇯🇵 I'm from Japan and 'm living vancouver 🇨🇦.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
