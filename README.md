@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayu</h1>
 <h3 align="center">A frontend developer from Canada</h3>
 
-- 👩‍💻 I’m a CICCC student
-- 🇯🇵 I'm from Japan and I'm living in Vancouver 🇨🇦.
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
